@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-I'm an IT student from the Philippines with a strong interest in **Programming** and **Network Engineering**. I enjoy building systems, exploring backend technologies, and working with network infrastructures.
+I'm an IT graduate from the Philippines focused on **Programming** and **Network Engineering**. I enjoy building backend systems, designing network infrastructures, and continuously improving my technical skills.
 
-* 🎓 BSIT Student
-* 🌐 Interested in Programming & Network Engineering
+* 🎓 BSIT Graduate
+* 🌐 Programming & Network Engineering
 
 ## 🧰 Tech Stack & Tools
 
