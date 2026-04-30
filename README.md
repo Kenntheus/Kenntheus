@@ -39,6 +39,8 @@ I'm an IT student from the Philippines with a strong interest in **Programming**
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge\&logo=gns3\&logoColor=white)
+![Linux Networking](https://img.shields.io/badge/Linux_Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0052CC?style=for-the-badge&logoColor=white)
 
 ### ⚙️ Tools
 
@@ -53,15 +55,18 @@ I'm an IT student from the Philippines with a strong interest in **Programming**
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 📊 Interests
 
 * Network Security & Infrastructure
 * Full-Stack Development
+* Backend System Design & APIs
+* Cloud Computing & DevOps Basics
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/martheus-kenn-banaag/)
+* LinkedIn: [Martheus Kenn Banaag](https://www.linkedin.com/in/martheus-kenn-banaag/)
 * Email: [kenntheus24@gmail.com](kenntheus24@gmail.com)
 
 ---
