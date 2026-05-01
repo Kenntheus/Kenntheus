@@ -55,18 +55,7 @@ I'm an IT graduate from the Philippines focused on **Programming** and **Network
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📊 Interests
-
-* Network Security & Infrastructure
-* Full-Stack Development
-* Backend System Design & APIs
-* Cloud Computing & DevOps Basics
-
 ## 📫 Connect With Me
 
 * LinkedIn: [Martheus Kenn Banaag](https://www.linkedin.com/in/martheus-kenn-banaag/)
 * Email: [kenntheus24@gmail.com](kenntheus24@gmail.com)
-
----
-
-"No packet loss, just great connections." 🚀
