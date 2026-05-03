@@ -57,7 +57,5 @@ I'm an IT graduate from the Philippines focused on **Programming** and **Network
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martheus-kenn-banaag/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenntheus24@gmail.com)
