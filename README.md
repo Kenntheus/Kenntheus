@@ -4,7 +4,6 @@
 
 I'm an IT graduate from the Philippines focused on **Programming** and **Network Engineering**. I enjoy building backend systems, designing network infrastructures, and continuously improving my technical skills.
 
-* 🎓 BSIT Graduate
 * 🌐 Programming & Network Engineering
 
 ## 🧰 Tech Stack & Tools
