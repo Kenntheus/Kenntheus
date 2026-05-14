@@ -2,11 +2,21 @@
 
 ## About Me
 
-I'm an IT graduate from the Philippines focused on **AI Engineer** and **Network Engineering**. I enjoy building backend systems, designing network infrastructures, and continuously improving my technical skills.
+I'm an IT graduate from the Philippines focused on building AI-powered applications and network infrastructures. I enjoy developing scalable software, integrating modern AI technologies, and continuously improving my skills in software engineering, cloud infrastructure, and networking.
 
-* AI Software & Network Engineering
+* AI Engineer • Network Engineer
+
+---
 
 ## 🧰 Tech Stack & Tools
+
+### 🤖 AI / Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 
 ### 🚀 Languages & Frameworks
 
@@ -33,19 +43,19 @@ I'm an IT graduate from the Philippines focused on **AI Engineer** and **Network
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🌐 Networking
+### 🌐 Networking & Infrastructure
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge\&logo=gns3\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge&logo=gns3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0052CC?style=for-the-badge&logoColor=white)
 
 ### ⚙️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🚀 Deployment / DevOps
 
@@ -54,6 +64,8 @@ I'm an IT graduate from the Philippines focused on **AI Engineer** and **Network
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
 
 ## 📫 Socials
 
